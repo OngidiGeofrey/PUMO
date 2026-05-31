@@ -110,7 +110,7 @@ Uri: https://cachesafaris.com/hot-air-balloon-safaris-in-maasai-mara-serengeti-a
 File Name: C:\Downloaded Web Sites\cachesafaris.com\hot-air-balloon-safaris-in-maasai-mara-serengeti-amboseli-cache-tours-and-safaris\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/inquiry/
+Uri: https://pumotours.com/inquiry/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\inquiry\index.htm
 Content Type: text/html
 
