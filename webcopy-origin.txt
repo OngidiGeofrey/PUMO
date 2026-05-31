@@ -1,112 +1,112 @@
-Uri: https://cachesafaris.com/
+Uri: /
 File Name: C:\Downloaded Web Sites\cachesafaris.com\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/about-us/
+Uri: /about-us/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\about-us\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/amboseli/
+Uri: /amboseli/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\amboseli\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/beaches-history-culture-explore-zanzibar-mombasa-diani-lamu-with-cache-tours-and-safarisdiani-beach-mombasa-where-coastal-splendor-meets-deep-swahili-heritage/
+Uri: /beaches-history-culture-explore-zanzibar-mombasa-diani-lamu-with-cache-tours-and-safarisdiani-beach-mombasa-where-coastal-splendor-meets-deep-swahili-heritage/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\beaches-history-culture-explore-zanzibar-mombasa-diani-lamu-with-cache-tours-and-safarisdiani-beach-mombasa-where-coastal-splendor-meets-deep-swahili-heritage\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/beaches-history-culture-explore-zanzibar-mombasa-diani-lamu-with-cache-tours-and-safarisdiani-beach-mombasa-where-coastal-splendor-meets-deep-swahili-heritage/feed/
+Uri: /beaches-history-culture-explore-zanzibar-mombasa-diani-lamu-with-cache-tours-and-safarisdiani-beach-mombasa-where-coastal-splendor-meets-deep-swahili-heritage/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\beaches-history-culture-explore-zanzibar-mombasa-diani-lamu-with-cache-tours-and-safarisdiani-beach-mombasa-where-coastal-splendor-meets-deep-swahili-heritage\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/blog/
+Uri: /blog/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\blog\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/blog/page/2/
+Uri: /blog/page/2/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\blog\page\2\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/category/blog-safari-diaries/
+Uri: /category/blog-safari-diaries/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\category\blog-safari-diaries\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/category/blog-safari-diaries/feed/
+Uri: /category/blog-safari-diaries/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\category\blog-safari-diaries\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/category/blog-safari-diaries/page/2/
+Uri: /category/blog-safari-diaries/page/2/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\category\blog-safari-diaries\page\2\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/climbing-mount-kilimanjaro-kenya-hikes/
+Uri: /climbing-mount-kilimanjaro-kenya-hikes/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\climbing-mount-kilimanjaro-kenya-hikes\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/climbing-mount-kilimanjaro-kenya-hikes/feed/
+Uri: /climbing-mount-kilimanjaro-kenya-hikes/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\climbing-mount-kilimanjaro-kenya-hikes\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/comments/feed/
+Uri: /comments/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\comments\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/contact-us/
+Uri: /contact-us/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\contact-us\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/country/combined-kenya-tanzania/
+Uri: /country/combined-kenya-tanzania/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\country\combined-kenya-tanzania\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/country/combined-kenya-tanzania/feed/
+Uri: /country/combined-kenya-tanzania/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\country\combined-kenya-tanzania\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/country/kenya-tours/
+Uri: /country/kenya-tours/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\country\kenya-tours\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/country/kenya-tours/feed/
+Uri: /country/kenya-tours/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\country\kenya-tours\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/country/kenya-tours/page/2/
+Uri: /country/kenya-tours/page/2/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\country\kenya-tours\page\2\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/country/tanzania-tours/
+Uri: /country/tanzania-tours/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\country\tanzania-tours\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/country/tanzania-tours/feed/
+Uri: /country/tanzania-tours/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\country\tanzania-tours\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/day-trips/
+Uri: /day-trips/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\day-trips\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/diani/
+Uri: /diani/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\diani\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/experience-the-great-migration-in-africa/
+Uri: /experience-the-great-migration-in-africa/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\experience-the-great-migration-in-africa\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/experience-the-great-migration-in-africa/feed/
+Uri: /experience-the-great-migration-in-africa/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\experience-the-great-migration-in-africa\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/feed/
+Uri: /feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/hot-air-balloon-safaris-in-maasai-mara-serengeti-amboseli-cache-tours-and-safaris/
+Uri: /hot-air-balloon-safaris-in-maasai-mara-serengeti-amboseli-cache-tours-and-safaris/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\hot-air-balloon-safaris-in-maasai-mara-serengeti-amboseli-cache-tours-and-safaris\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/hot-air-balloon-safaris-in-maasai-mara-serengeti-amboseli-cache-tours-and-safaris/feed/
+Uri: /hot-air-balloon-safaris-in-maasai-mara-serengeti-amboseli-cache-tours-and-safaris/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\hot-air-balloon-safaris-in-maasai-mara-serengeti-amboseli-cache-tours-and-safaris\feed\index.htm
 Content Type: application/rss+xml
 
@@ -114,267 +114,267 @@ Uri: https://pumotours.com/inquiry/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\inquiry\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/kenya-safaris/
+Uri: /kenya-safaris/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\kenya-safaris\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/kenya-tanzania-combined-safari-experience/
+Uri: /kenya-tanzania-combined-safari-experience/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\kenya-tanzania-combined-safari-experience\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/kenya-tanzania-combined-safari-experience/feed/
+Uri: /kenya-tanzania-combined-safari-experience/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\kenya-tanzania-combined-safari-experience\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/kilifi/
+Uri: /kilifi/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\kilifi\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/lake-bogoria/
+Uri: /lake-bogoria/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\lake-bogoria\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/lake-manyara-national-park/
+Uri: /lake-manyara-national-park/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\lake-manyara-national-park\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/lake-naivasha/
+Uri: /lake-naivasha/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\lake-naivasha\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/lake-nakuru-and-flamingo-safaris/
+Uri: /lake-nakuru-and-flamingo-safaris/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\lake-nakuru-and-flamingo-safaris\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/lake-nakuru-and-flamingo-safaris/feed/
+Uri: /lake-nakuru-and-flamingo-safaris/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\lake-nakuru-and-flamingo-safaris\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/lake-nakuru/
+Uri: /lake-nakuru/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\lake-nakuru\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/lamu/
+Uri: /lamu/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\lamu\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/maasai-mara-group-joining-safaris/
+Uri: /maasai-mara-group-joining-safaris/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\maasai-mara-group-joining-safaris\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/maasai-mara-group-joining-safaris/feed/
+Uri: /maasai-mara-group-joining-safaris/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\maasai-mara-group-joining-safaris\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/maasai-mara/
+Uri: /maasai-mara/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\maasai-mara\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/mombasa/
+Uri: /mombasa/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\mombasa\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/mount-kenya/
+Uri: /mount-kenya/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\mount-kenya\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/my-favourite/
+Uri: /my-favourite/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\my-favourite\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/nairobi-national-park/
+Uri: /nairobi-national-park/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\nairobi-national-park\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/ngorongoro-crater/
+Uri: /ngorongoro-crater/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\ngorongoro-crater\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/ol-pejeta-conservancy-safaris/
+Uri: /ol-pejeta-conservancy-safaris/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\ol-pejeta-conservancy-safaris\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/ol-pejeta-conservancy-safaris/feed/
+Uri: /ol-pejeta-conservancy-safaris/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\ol-pejeta-conservancy-safaris\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/photography-safaris-capture-africas-untamed-beauty/
+Uri: /photography-safaris-capture-africas-untamed-beauty/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\photography-safaris-capture-africas-untamed-beauty\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/photography-safaris-capture-africas-untamed-beauty/feed/
+Uri: /photography-safaris-capture-africas-untamed-beauty/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\photography-safaris-capture-africas-untamed-beauty\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/privacy-policy/
+Uri: /privacy-policy/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\privacy-policy\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/recommended/featured/
+Uri: /recommended/featured/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\recommended\featured\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/recommended/featured/feed/
+Uri: /recommended/featured/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\recommended\featured\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/recommended/hot-deal/
+Uri: /recommended/hot-deal/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\recommended\hot-deal\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/recommended/hot-deal/feed/
+Uri: /recommended/hot-deal/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\recommended\hot-deal\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/ruaha-national-park/
+Uri: /ruaha-national-park/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\ruaha-national-park\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/ruma-national-park/
+Uri: /ruma-national-park/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\ruma-national-park\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/safaris/
+Uri: /safaris/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\safaris\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/samburu-cultural-wildlife-safaris/
+Uri: /samburu-cultural-wildlife-safaris/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\samburu-cultural-wildlife-safaris\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/samburu-cultural-wildlife-safaris/feed/
+Uri: /samburu-cultural-wildlife-safaris/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\samburu-cultural-wildlife-safaris\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/samburu-national-park/
+Uri: /samburu-national-park/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\samburu-national-park\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/school-holidays-reimagined/
+Uri: /school-holidays-reimagined/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\school-holidays-reimagined\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/school-holidays-reimagined/feed/
+Uri: /school-holidays-reimagined/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\school-holidays-reimagined\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/serengeti-national-park/
+Uri: /serengeti-national-park/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\serengeti-national-park\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tanzania-safaris/
+Uri: /tanzania-safaris/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tanzania-safaris\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tarangire-national-park/
+Uri: /tarangire-national-park/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tarangire-national-park\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/terms-and-conditions/
+Uri: /terms-and-conditions/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\terms-and-conditions\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/
+Uri: /tours/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/11-days-kenya-and-tanzania-budget-safari-with-an-extra-full-day-at-serengeti-n-p/
+Uri: /tours/11-days-kenya-and-tanzania-budget-safari-with-an-extra-full-day-at-serengeti-n-p/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\11-days-kenya-and-tanzania-budget-safari-with-an-extra-full-day-at-serengeti-n-p\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/13-days-kenya-and-tanzania-budget-safari/
+Uri: /tours/13-days-kenya-and-tanzania-budget-safari/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\13-days-kenya-and-tanzania-budget-safari\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/14-days-kenya-and-tanzania-amazing-wildebeest-migration-and-wildlife-budget-safari-with-lake-naivasha-hells-gate-n-p/
+Uri: /tours/14-days-kenya-and-tanzania-amazing-wildebeest-migration-and-wildlife-budget-safari-with-lake-naivasha-hells-gate-n-p/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\14-days-kenya-and-tanzania-amazing-wildebeest-migration-and-wildlife-budget-safari-with-lake-naivasha-hells-gate-n-p\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/2-days-maasai-mara-budget-safari/
+Uri: /tours/2-days-maasai-mara-budget-safari/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\2-days-maasai-mara-budget-safari\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/3-days-masai-mara-budget-safari/
+Uri: /tours/3-days-masai-mara-budget-safari/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\3-days-masai-mara-budget-safari\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/3-days-serengeti-national-park-and-ngorongoro-crater-budget-safari/
+Uri: /tours/3-days-serengeti-national-park-and-ngorongoro-crater-budget-safari/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\3-days-serengeti-national-park-and-ngorongoro-crater-budget-safari\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/4-days-lake-manyara-serengeti-national-park-and-ngorongoro-crater-tanzania-budget-safari/
+Uri: /tours/4-days-lake-manyara-serengeti-national-park-and-ngorongoro-crater-tanzania-budget-safari/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\4-days-lake-manyara-serengeti-national-park-and-ngorongoro-crater-tanzania-budget-safari\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/4-days-masai-mara-and-nakuru-budget-safari/
+Uri: /tours/4-days-masai-mara-and-nakuru-budget-safari/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\4-days-masai-mara-and-nakuru-budget-safari\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/4-days-serengeti-and-ngorongoro-crater-budget-safari-with-an-extra-full-day-at-serengeti-n-p/
+Uri: /tours/4-days-serengeti-and-ngorongoro-crater-budget-safari-with-an-extra-full-day-at-serengeti-n-p/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\4-days-serengeti-and-ngorongoro-crater-budget-safari-with-an-extra-full-day-at-serengeti-n-p\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/5-days-lake-manyara-serengeti-national-park-and-ngorongoro-crater-budget-safari-with-an-full-extra-day-at-serengeti-n-p/
+Uri: /tours/5-days-lake-manyara-serengeti-national-park-and-ngorongoro-crater-budget-safari-with-an-full-extra-day-at-serengeti-n-p/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\5-days-lake-manyara-serengeti-national-park-and-ngorongoro-crater-budget-safari-with-an-full-extra-day-at-serengeti-n-p\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/5-days-lake-manyara-serengeti-national-park-ngorongoro-crater-and-tarangire-national-park-budget-safari/
+Uri: /tours/5-days-lake-manyara-serengeti-national-park-ngorongoro-crater-and-tarangire-national-park-budget-safari/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\5-days-lake-manyara-serengeti-national-park-ngorongoro-crater-and-tarangire-national-park-budget-safari\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/5-days-masai-mara-nakuru-and-naivasha-budget-safari/
+Uri: /tours/5-days-masai-mara-nakuru-and-naivasha-budget-safari/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\5-days-masai-mara-nakuru-and-naivasha-budget-safari\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/6-days-lake-manyara-serengeti-national-park-ngorongoro-crater-and-tarangire-national-park-budget-safari-with-an-extra-full-day-at-serengeti-n-p/
+Uri: /tours/6-days-lake-manyara-serengeti-national-park-ngorongoro-crater-and-tarangire-national-park-budget-safari-with-an-extra-full-day-at-serengeti-n-p/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\6-days-lake-manyara-serengeti-national-park-ngorongoro-crater-and-tarangire-national-park-budget-safari-with-an-extra-full-day-at-serengeti-n-p\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/6-days-maasai-mara-nakuru-and-amboseli-budget-safari/
+Uri: /tours/6-days-maasai-mara-nakuru-and-amboseli-budget-safari/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\6-days-maasai-mara-nakuru-and-amboseli-budget-safari\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/7-days-best-of-kenya-safari/
+Uri: /tours/7-days-best-of-kenya-safari/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\7-days-best-of-kenya-safari\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/7-days-masai-mara-nakurunaivasha-and-amboseli-budget-safari/
+Uri: /tours/7-days-masai-mara-nakurunaivasha-and-amboseli-budget-safari/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\7-days-masai-mara-nakurunaivasha-and-amboseli-budget-safari\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/8-days-masai-mara-nakurunaivasha-and-amboseli-budget-safari-with-an-extra-day-at-the-masai-mara/
+Uri: /tours/8-days-masai-mara-nakurunaivasha-and-amboseli-budget-safari-with-an-extra-day-at-the-masai-mara/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\8-days-masai-mara-nakurunaivasha-and-amboseli-budget-safari-with-an-extra-day-at-the-masai-mara\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/day-tour-to-giraffe-center-and-elephant-orphanage-project/
+Uri: /tours/day-tour-to-giraffe-center-and-elephant-orphanage-project/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\day-tour-to-giraffe-center-and-elephant-orphanage-project\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/feed/
+Uri: /tours/feed/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\feed\index.htm
 Content Type: application/rss+xml
 
-Uri: https://cachesafaris.com/tours/half-day-morning-afternoon-tour-to-nairobi-national-park/
+Uri: /tours/half-day-morning-afternoon-tour-to-nairobi-national-park/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\half-day-morning-afternoon-tour-to-nairobi-national-park\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/page/2/
+Uri: /tours/page/2/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\page\2\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tours/sunrise-hot-air-balloon-in-masai-mara/
+Uri: /tours/sunrise-hot-air-balloon-in-masai-mara/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tours\sunrise-hot-air-balloon-in-masai-mara\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tsavo-east/
+Uri: /tsavo-east/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tsavo-east\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/tsavo-west/
+Uri: /tsavo-west/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\tsavo-west\index.htm
 Content Type: text/html
 
-Uri: https://cachesafaris.com/watamu/
+Uri: /watamu/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\watamu\index.htm
 Content Type: text/html
 
@@ -4354,851 +4354,851 @@ Uri: /uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufo5q
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2
 Content Type: font/woff2
 
-Uri: https://cachesafaris.com/wp-includes/blocks/heading/style.min.css?ver=7.0
+Uri: /wp-includes/blocks/heading/style.min.css?ver=7.0
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-includes\blocks\heading\style.min.css
 Content Type: text/css
 
-Uri: https://cachesafaris.com/wp-includes/blocks/paragraph/style.min.css?ver=7.0
+Uri: /wp-includes/blocks/paragraph/style.min.css?ver=7.0
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-includes\blocks\paragraph\style.min.css
 Content Type: text/css
 
-Uri: https://cachesafaris.com/wp-includes/blocks/quote/style.min.css?ver=7.0
+Uri: /wp-includes/blocks/quote/style.min.css?ver=7.0
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-includes\blocks\quote\style.min.css
 Content Type: text/css
 
-Uri: https://cachesafaris.com/wp-includes/css/dist/block-library/common.min.css?ver=7.0
+Uri: /wp-includes/css/dist/block-library/common.min.css?ver=7.0
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-includes\css\dist\block-library\common.min.css
 Content Type: text/css
 
-Uri: https://cachesafaris.com/wp-includes/js/comment-reply.min.js?ver=7.0
+Uri: /wp-includes/js/comment-reply.min.js?ver=7.0
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-includes\js\comment-reply.min.js
 Content Type: text/javascript
 
-Uri: https://cachesafaris.com/wp-includes/js/dist/api-fetch.min.js?ver=d7efe4dc1468d36c39b8
+Uri: /wp-includes/js/dist/api-fetch.min.js?ver=d7efe4dc1468d36c39b8
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-includes\js\dist\api-fetch.min.js
 Content Type: text/javascript
 
-Uri: https://cachesafaris.com/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d
+Uri: /wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-includes\js\dist\hooks.min.js
 Content Type: text/javascript
 
-Uri: https://cachesafaris.com/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec
+Uri: /wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-includes\js\dist\i18n.min.js
 Content Type: text/javascript
 
-Uri: https://cachesafaris.com/wp-includes/js/dist/url.min.js?ver=bb0f766c3d2efe497871
+Uri: /wp-includes/js/dist/url.min.js?ver=bb0f766c3d2efe497871
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-includes\js\dist\url.min.js
 Content Type: text/javascript
 
-Uri: https://cachesafaris.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+Uri: /wp-includes/js/hoverIntent.min.js?ver=1.10.2
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-includes\js\hoverIntent.min.js
 Content Type: text/javascript
 
-Uri: https://cachesafaris.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+Uri: /wp-includes/js/imagesloaded.min.js?ver=5.0.0
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-includes\js\imagesloaded.min.js
 Content Type: text/javascript
 
-Uri: https://cachesafaris.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+Uri: /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-includes\js\jquery\jquery-migrate.min.js
 Content Type: text/javascript
 
-Uri: https://cachesafaris.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+Uri: /wp-includes/js/jquery/jquery.min.js?ver=3.7.1
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-includes\js\jquery\jquery.min.js
 Content Type: text/javascript
 
-Uri: https://cachesafaris.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+Uri: /wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-includes\js\jquery\ui\core.min.js
 Content Type: text/javascript
 
-Uri: https://cachesafaris.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3
+Uri: /wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-includes\js\jquery\ui\datepicker.min.js
 Content Type: text/javascript
 
-Uri: https://cachesafaris.com/wp-json/
+Uri: /wp-json/
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\index.htm
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-1
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fabout-us%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fabout-us%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-52
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fabout-us%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fabout-us%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-53
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Famboseli%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Famboseli%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-12
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Famboseli%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Famboseli%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-13
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fbeaches-history-culture-explore-zanzibar-mombasa-diani-lamu-with-cache-tours-and-safarisdiani-beach-mombasa-where-coastal-splendor-meets-deep-swahili-heritage%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fbeaches-history-culture-explore-zanzibar-mombasa-diani-lamu-with-cache-tours-and-safarisdiani-beach-mombasa-where-coastal-splendor-meets-deep-swahili-heritage%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-112
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fbeaches-history-culture-explore-zanzibar-mombasa-diani-lamu-with-cache-tours-and-safarisdiani-beach-mombasa-where-coastal-splendor-meets-deep-swahili-heritage%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fbeaches-history-culture-explore-zanzibar-mombasa-diani-lamu-with-cache-tours-and-safarisdiani-beach-mombasa-where-coastal-splendor-meets-deep-swahili-heritage%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-113
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fclimbing-mount-kilimanjaro-kenya-hikes%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fclimbing-mount-kilimanjaro-kenya-hikes%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-106
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fclimbing-mount-kilimanjaro-kenya-hikes%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fclimbing-mount-kilimanjaro-kenya-hikes%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-107
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fcontact-us%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fcontact-us%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-54
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fcontact-us%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fcontact-us%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-55
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fday-trips%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fday-trips%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-8
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fday-trips%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fday-trips%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-9
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fdiani%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fdiani%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-26
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fdiani%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fdiani%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-27
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fexperience-the-great-migration-in-africa%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fexperience-the-great-migration-in-africa%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-114
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fexperience-the-great-migration-in-africa%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fexperience-the-great-migration-in-africa%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-115
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fhot-air-balloon-safaris-in-maasai-mara-serengeti-amboseli-cache-tours-and-safaris%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fhot-air-balloon-safaris-in-maasai-mara-serengeti-amboseli-cache-tours-and-safaris%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-116
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fhot-air-balloon-safaris-in-maasai-mara-serengeti-amboseli-cache-tours-and-safaris%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fhot-air-balloon-safaris-in-maasai-mara-serengeti-amboseli-cache-tours-and-safaris%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-117
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Finquiry%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Finquiry%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-58
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Finquiry%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Finquiry%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-59
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fkenya-safaris%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fkenya-safaris%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-4
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fkenya-safaris%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fkenya-safaris%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-5
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fkenya-tanzania-combined-safari-experience%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fkenya-tanzania-combined-safari-experience%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-98
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fkenya-tanzania-combined-safari-experience%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fkenya-tanzania-combined-safari-experience%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-99
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fkilifi%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fkilifi%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-34
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fkilifi%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fkilifi%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-35
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-bogoria%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-bogoria%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-38
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-bogoria%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-bogoria%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-39
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-manyara-national-park%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-manyara-national-park%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-50
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-manyara-national-park%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-manyara-national-park%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-51
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-naivasha%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-naivasha%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-36
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-naivasha%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-naivasha%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-37
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-nakuru%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-nakuru%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-40
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-nakuru%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-nakuru%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-41
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-nakuru-and-flamingo-safaris%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-nakuru-and-flamingo-safaris%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-102
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-nakuru-and-flamingo-safaris%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flake-nakuru-and-flamingo-safaris%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-103
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flamu%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flamu%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-30
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flamu%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Flamu%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-31
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmaasai-mara%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmaasai-mara%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-10
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmaasai-mara%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmaasai-mara%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-11
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmaasai-mara-group-joining-safaris%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmaasai-mara-group-joining-safaris%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-110
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmaasai-mara-group-joining-safaris%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmaasai-mara-group-joining-safaris%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-111
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmombasa%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmombasa%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-28
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmombasa%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmombasa%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-29
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmount-kenya%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmount-kenya%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-20
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmount-kenya%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmount-kenya%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-21
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmy-favourite%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmy-favourite%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-56
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmy-favourite%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fmy-favourite%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-57
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fnairobi-national-park%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fnairobi-national-park%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-14
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fnairobi-national-park%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fnairobi-national-park%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-15
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fngorongoro-crater%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fngorongoro-crater%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-46
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fngorongoro-crater%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fngorongoro-crater%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-47
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fol-pejeta-conservancy-safaris%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fol-pejeta-conservancy-safaris%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-108
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fol-pejeta-conservancy-safaris%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fol-pejeta-conservancy-safaris%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-109
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fphotography-safaris-capture-africas-untamed-beauty%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fphotography-safaris-capture-africas-untamed-beauty%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-100
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fphotography-safaris-capture-africas-untamed-beauty%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fphotography-safaris-capture-africas-untamed-beauty%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-101
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fprivacy-policy%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fprivacy-policy%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-86
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fprivacy-policy%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fprivacy-policy%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-87
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fruaha-national-park%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fruaha-national-park%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-48
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fruaha-national-park%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fruaha-national-park%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-49
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fruma-national-park%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fruma-national-park%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-24
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fruma-national-park%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fruma-national-park%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-25
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fsafaris%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fsafaris%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-2
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fsafaris%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fsafaris%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-3
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fsamburu-cultural-wildlife-safaris%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fsamburu-cultural-wildlife-safaris%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-104
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fsamburu-cultural-wildlife-safaris%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fsamburu-cultural-wildlife-safaris%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-105
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fsamburu-national-park%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fsamburu-national-park%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-22
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fsamburu-national-park%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fsamburu-national-park%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-23
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fschool-holidays-reimagined%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fschool-holidays-reimagined%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-120
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fschool-holidays-reimagined%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fschool-holidays-reimagined%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-121
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fserengeti-national-park%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fserengeti-national-park%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-42
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fserengeti-national-park%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fserengeti-national-park%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-43
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftanzania-safaris%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftanzania-safaris%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-6
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftanzania-safaris%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftanzania-safaris%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-7
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftarangire-national-park%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftarangire-national-park%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-44
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftarangire-national-park%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftarangire-national-park%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-45
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fterms-and-conditions%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fterms-and-conditions%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-88
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fterms-and-conditions%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fterms-and-conditions%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-89
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F11-days-kenya-and-tanzania-budget-safari-with-an-extra-full-day-at-serengeti-n-p%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F11-days-kenya-and-tanzania-budget-safari-with-an-extra-full-day-at-serengeti-n-p%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-96
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F11-days-kenya-and-tanzania-budget-safari-with-an-extra-full-day-at-serengeti-n-p%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F11-days-kenya-and-tanzania-budget-safari-with-an-extra-full-day-at-serengeti-n-p%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-97
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F13-days-kenya-and-tanzania-budget-safari%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F13-days-kenya-and-tanzania-budget-safari%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-124
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F13-days-kenya-and-tanzania-budget-safari%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F13-days-kenya-and-tanzania-budget-safari%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-125
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F14-days-kenya-and-tanzania-amazing-wildebeest-migration-and-wildlife-budget-safari-with-lake-naivasha-hells-gate-n-p%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F14-days-kenya-and-tanzania-amazing-wildebeest-migration-and-wildlife-budget-safari-with-lake-naivasha-hells-gate-n-p%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-94
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F14-days-kenya-and-tanzania-amazing-wildebeest-migration-and-wildlife-budget-safari-with-lake-naivasha-hells-gate-n-p%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F14-days-kenya-and-tanzania-amazing-wildebeest-migration-and-wildlife-budget-safari-with-lake-naivasha-hells-gate-n-p%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-95
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F2-days-maasai-mara-budget-safari%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F2-days-maasai-mara-budget-safari%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-64
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F2-days-maasai-mara-budget-safari%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F2-days-maasai-mara-budget-safari%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-65
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F3-days-masai-mara-budget-safari%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F3-days-masai-mara-budget-safari%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-66
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F3-days-masai-mara-budget-safari%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F3-days-masai-mara-budget-safari%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-67
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F3-days-serengeti-national-park-and-ngorongoro-crater-budget-safari%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F3-days-serengeti-national-park-and-ngorongoro-crater-budget-safari%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-84
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F3-days-serengeti-national-park-and-ngorongoro-crater-budget-safari%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F3-days-serengeti-national-park-and-ngorongoro-crater-budget-safari%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-85
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F4-days-lake-manyara-serengeti-national-park-and-ngorongoro-crater-tanzania-budget-safari%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F4-days-lake-manyara-serengeti-national-park-and-ngorongoro-crater-tanzania-budget-safari%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-90
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F4-days-lake-manyara-serengeti-national-park-and-ngorongoro-crater-tanzania-budget-safari%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F4-days-lake-manyara-serengeti-national-park-and-ngorongoro-crater-tanzania-budget-safari%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-91
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F4-days-masai-mara-and-nakuru-budget-safari%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F4-days-masai-mara-and-nakuru-budget-safari%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-68
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F4-days-masai-mara-and-nakuru-budget-safari%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F4-days-masai-mara-and-nakuru-budget-safari%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-69
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F4-days-serengeti-and-ngorongoro-crater-budget-safari-with-an-extra-full-day-at-serengeti-n-p%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F4-days-serengeti-and-ngorongoro-crater-budget-safari-with-an-extra-full-day-at-serengeti-n-p%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-62
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F4-days-serengeti-and-ngorongoro-crater-budget-safari-with-an-extra-full-day-at-serengeti-n-p%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F4-days-serengeti-and-ngorongoro-crater-budget-safari-with-an-extra-full-day-at-serengeti-n-p%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-63
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F5-days-lake-manyara-serengeti-national-park-and-ngorongoro-crater-budget-safari-with-an-full-extra-day-at-serengeti-n-p%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F5-days-lake-manyara-serengeti-national-park-and-ngorongoro-crater-budget-safari-with-an-full-extra-day-at-serengeti-n-p%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-92
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F5-days-lake-manyara-serengeti-national-park-and-ngorongoro-crater-budget-safari-with-an-full-extra-day-at-serengeti-n-p%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F5-days-lake-manyara-serengeti-national-park-and-ngorongoro-crater-budget-safari-with-an-full-extra-day-at-serengeti-n-p%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-93
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F5-days-lake-manyara-serengeti-national-park-ngorongoro-crater-and-tarangire-national-park-budget-safari%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F5-days-lake-manyara-serengeti-national-park-ngorongoro-crater-and-tarangire-national-park-budget-safari%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-74
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F5-days-lake-manyara-serengeti-national-park-ngorongoro-crater-and-tarangire-national-park-budget-safari%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F5-days-lake-manyara-serengeti-national-park-ngorongoro-crater-and-tarangire-national-park-budget-safari%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-75
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F5-days-masai-mara-nakuru-and-naivasha-budget-safari%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F5-days-masai-mara-nakuru-and-naivasha-budget-safari%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-122
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F5-days-masai-mara-nakuru-and-naivasha-budget-safari%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F5-days-masai-mara-nakuru-and-naivasha-budget-safari%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-123
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F6-days-lake-manyara-serengeti-national-park-ngorongoro-crater-and-tarangire-national-park-budget-safari-with-an-extra-full-day-at-serengeti-n-p%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F6-days-lake-manyara-serengeti-national-park-ngorongoro-crater-and-tarangire-national-park-budget-safari-with-an-extra-full-day-at-serengeti-n-p%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-82
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F6-days-lake-manyara-serengeti-national-park-ngorongoro-crater-and-tarangire-national-park-budget-safari-with-an-extra-full-day-at-serengeti-n-p%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F6-days-lake-manyara-serengeti-national-park-ngorongoro-crater-and-tarangire-national-park-budget-safari-with-an-extra-full-day-at-serengeti-n-p%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-83
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F6-days-maasai-mara-nakuru-and-amboseli-budget-safari%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F6-days-maasai-mara-nakuru-and-amboseli-budget-safari%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-70
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F6-days-maasai-mara-nakuru-and-amboseli-budget-safari%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F6-days-maasai-mara-nakuru-and-amboseli-budget-safari%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-71
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F7-days-best-of-kenya-safari%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F7-days-best-of-kenya-safari%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-60
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F7-days-best-of-kenya-safari%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F7-days-best-of-kenya-safari%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-61
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F7-days-masai-mara-nakurunaivasha-and-amboseli-budget-safari%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F7-days-masai-mara-nakurunaivasha-and-amboseli-budget-safari%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-118
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F7-days-masai-mara-nakurunaivasha-and-amboseli-budget-safari%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F7-days-masai-mara-nakurunaivasha-and-amboseli-budget-safari%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-119
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F8-days-masai-mara-nakurunaivasha-and-amboseli-budget-safari-with-an-extra-day-at-the-masai-mara%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F8-days-masai-mara-nakurunaivasha-and-amboseli-budget-safari-with-an-extra-day-at-the-masai-mara%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-72
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F8-days-masai-mara-nakurunaivasha-and-amboseli-budget-safari-with-an-extra-day-at-the-masai-mara%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2F8-days-masai-mara-nakurunaivasha-and-amboseli-budget-safari-with-an-extra-day-at-the-masai-mara%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-73
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2Fday-tour-to-giraffe-center-and-elephant-orphanage-project%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2Fday-tour-to-giraffe-center-and-elephant-orphanage-project%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-80
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2Fday-tour-to-giraffe-center-and-elephant-orphanage-project%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2Fday-tour-to-giraffe-center-and-elephant-orphanage-project%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-81
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2Fhalf-day-morning-afternoon-tour-to-nairobi-national-park%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2Fhalf-day-morning-afternoon-tour-to-nairobi-national-park%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-76
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2Fhalf-day-morning-afternoon-tour-to-nairobi-national-park%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2Fhalf-day-morning-afternoon-tour-to-nairobi-national-park%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-77
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2Fsunrise-hot-air-balloon-in-masai-mara%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2Fsunrise-hot-air-balloon-in-masai-mara%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-78
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2Fsunrise-hot-air-balloon-in-masai-mara%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftours%2Fsunrise-hot-air-balloon-in-masai-mara%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-79
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftsavo-east%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftsavo-east%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-18
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftsavo-east%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftsavo-east%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-19
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftsavo-west%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftsavo-west%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-16
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftsavo-west%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Ftsavo-west%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-17
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fwatamu%2F
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fwatamu%2F
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-32
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fwatamu%2F&format=xml
+Uri: /wp-json/oembed/1.0/embed?url=https:%2F%2Fcachesafaris.com%2Fwatamu%2F&format=xml
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\oembed\1.0\embed-33
 Content Type: text/xml
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/categories/1
+Uri: /wp-json/wp/v2/categories/1
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\categories\1
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/country/12
+Uri: /wp-json/wp/v2/country/12
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\country\12
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/country/5
+Uri: /wp-json/wp/v2/country/5
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\country\5
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/country/50
+Uri: /wp-json/wp/v2/country/50
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\country\50
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/10056
+Uri: /wp-json/wp/v2/pages/10056
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\10056
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/17
+Uri: /wp-json/wp/v2/pages/17
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\17
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/19
+Uri: /wp-json/wp/v2/pages/19
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\19
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/21
+Uri: /wp-json/wp/v2/pages/21
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\21
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/23
+Uri: /wp-json/wp/v2/pages/23
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\23
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/25
+Uri: /wp-json/wp/v2/pages/25
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\25
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/27
+Uri: /wp-json/wp/v2/pages/27
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\27
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/31
+Uri: /wp-json/wp/v2/pages/31
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\31
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/33
+Uri: /wp-json/wp/v2/pages/33
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\33
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/8
+Uri: /wp-json/wp/v2/pages/8
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\8
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/8946
+Uri: /wp-json/wp/v2/pages/8946
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\8946
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9924
+Uri: /wp-json/wp/v2/pages/9924
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9924
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9926
+Uri: /wp-json/wp/v2/pages/9926
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9926
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9928
+Uri: /wp-json/wp/v2/pages/9928
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9928
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9930
+Uri: /wp-json/wp/v2/pages/9930
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9930
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9932
+Uri: /wp-json/wp/v2/pages/9932
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9932
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9934
+Uri: /wp-json/wp/v2/pages/9934
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9934
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9936
+Uri: /wp-json/wp/v2/pages/9936
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9936
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9951
+Uri: /wp-json/wp/v2/pages/9951
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9951
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9953
+Uri: /wp-json/wp/v2/pages/9953
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9953
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9955
+Uri: /wp-json/wp/v2/pages/9955
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9955
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9957
+Uri: /wp-json/wp/v2/pages/9957
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9957
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9959
+Uri: /wp-json/wp/v2/pages/9959
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9959
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9961
+Uri: /wp-json/wp/v2/pages/9961
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9961
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9969
+Uri: /wp-json/wp/v2/pages/9969
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9969
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9971
+Uri: /wp-json/wp/v2/pages/9971
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9971
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9973
+Uri: /wp-json/wp/v2/pages/9973
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9973
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9978
+Uri: /wp-json/wp/v2/pages/9978
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9978
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9980
+Uri: /wp-json/wp/v2/pages/9980
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9980
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9984
+Uri: /wp-json/wp/v2/pages/9984
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9984
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9986
+Uri: /wp-json/wp/v2/pages/9986
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9986
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/pages/9988
+Uri: /wp-json/wp/v2/pages/9988
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\pages\9988
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/posts/11014
+Uri: /wp-json/wp/v2/posts/11014
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\posts\11014
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/posts/11040
+Uri: /wp-json/wp/v2/posts/11040
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\posts\11040
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/posts/11050
+Uri: /wp-json/wp/v2/posts/11050
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\posts\11050
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/posts/11063
+Uri: /wp-json/wp/v2/posts/11063
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\posts\11063
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/posts/11100
+Uri: /wp-json/wp/v2/posts/11100
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\posts\11100
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/posts/11113
+Uri: /wp-json/wp/v2/posts/11113
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\posts\11113
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/posts/11126
+Uri: /wp-json/wp/v2/posts/11126
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\posts\11126
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/posts/11145
+Uri: /wp-json/wp/v2/posts/11145
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\posts\11145
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/posts/11166
+Uri: /wp-json/wp/v2/posts/11166
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\posts\11166
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/posts/11182
+Uri: /wp-json/wp/v2/posts/11182
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\posts\11182
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/posts/11194
+Uri: /wp-json/wp/v2/posts/11194
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\posts\11194
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/recommended/19
+Uri: /wp-json/wp/v2/recommended/19
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\recommended\19
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/recommended/20
+Uri: /wp-json/wp/v2/recommended/20
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\recommended\20
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/10521
+Uri: /wp-json/wp/v2/tours/10521
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\10521
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/10522
+Uri: /wp-json/wp/v2/tours/10522
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\10522
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/10523
+Uri: /wp-json/wp/v2/tours/10523
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\10523
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/10524
+Uri: /wp-json/wp/v2/tours/10524
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\10524
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/10525
+Uri: /wp-json/wp/v2/tours/10525
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\10525
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/10527
+Uri: /wp-json/wp/v2/tours/10527
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\10527
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/10528
+Uri: /wp-json/wp/v2/tours/10528
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\10528
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/10529
+Uri: /wp-json/wp/v2/tours/10529
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\10529
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/10530
+Uri: /wp-json/wp/v2/tours/10530
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\10530
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/10531
+Uri: /wp-json/wp/v2/tours/10531
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\10531
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/10981
+Uri: /wp-json/wp/v2/tours/10981
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\10981
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/3454
+Uri: /wp-json/wp/v2/tours/3454
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\3454
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/9518
+Uri: /wp-json/wp/v2/tours/9518
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\9518
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/9641
+Uri: /wp-json/wp/v2/tours/9641
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\9641
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/9645
+Uri: /wp-json/wp/v2/tours/9645
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\9645
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/9707
+Uri: /wp-json/wp/v2/tours/9707
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\9707
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/9712
+Uri: /wp-json/wp/v2/tours/9712
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\9712
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/9727
+Uri: /wp-json/wp/v2/tours/9727
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\9727
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/9731
+Uri: /wp-json/wp/v2/tours/9731
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\9731
 Content Type: application/json
 
-Uri: https://cachesafaris.com/wp-json/wp/v2/tours/9983
+Uri: /wp-json/wp/v2/tours/9983
 File Name: C:\Downloaded Web Sites\cachesafaris.com\wp-json\wp\v2\tours\9983
 Content Type: application/json
 
-Uri: https://cachesafaris.com/xmlrpc.php?rsd
+Uri: /xmlrpc.php?rsd
 File Name: C:\Downloaded Web Sites\cachesafaris.com\xmlrpc.php
 Content Type: text/xml
 
